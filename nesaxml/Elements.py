@@ -207,7 +207,7 @@ CourseSyllabus = createXmlClass("CourseSyllabus", [
     }
 ])
 
-CourseProvider = createXmlClass("CourseProvider", [
+CourseProviderEvaluation = createXmlClass("CourseProviderEvaluation", [
     {
         "name": "obs_Course_code",
         "type": FieldType.string,
