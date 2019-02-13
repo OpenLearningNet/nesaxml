@@ -23,7 +23,6 @@ NesaXML subclasses defined for the following elements:
 - CourseProvider
 - ProviderLocation
 - CourseParticipation
-- CourseParticipation
 
 Each of these may be constructed using an optional data dict, e.g.
 
